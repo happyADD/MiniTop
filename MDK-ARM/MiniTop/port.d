@@ -1,7 +1,7 @@
 minitop\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
 minitop\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-minitop\port.o: F:\Software\KEIL5\Core\ARM\Arm_Compiler_5.06u7\Bin\..\include\stddef.h
-minitop\port.o: F:\Software\KEIL5\Core\ARM\Arm_Compiler_5.06u7\Bin\..\include\stdint.h
+minitop\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+minitop\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 minitop\port.o: ../Core/Inc/FreeRTOSConfig.h
 minitop\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 minitop\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

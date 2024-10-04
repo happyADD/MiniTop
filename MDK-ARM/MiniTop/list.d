@@ -1,8 +1,8 @@
 minitop\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
-minitop\list.o: F:\Software\KEIL5\Core\ARM\Arm_Compiler_5.06u7\Bin\..\include\stdlib.h
+minitop\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 minitop\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-minitop\list.o: F:\Software\KEIL5\Core\ARM\Arm_Compiler_5.06u7\Bin\..\include\stddef.h
-minitop\list.o: F:\Software\KEIL5\Core\ARM\Arm_Compiler_5.06u7\Bin\..\include\stdint.h
+minitop\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+minitop\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 minitop\list.o: ../Core/Inc/FreeRTOSConfig.h
 minitop\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 minitop\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

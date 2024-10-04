@@ -1,7 +1,7 @@
 minitop\motortask.o: ..\Core\Src\MotorTask.c
 minitop\motortask.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-minitop\motortask.o: F:\Software\KEIL5\Core\ARM\Arm_Compiler_5.06u7\Bin\..\include\stddef.h
-minitop\motortask.o: F:\Software\KEIL5\Core\ARM\Arm_Compiler_5.06u7\Bin\..\include\stdint.h
+minitop\motortask.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+minitop\motortask.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 minitop\motortask.o: ../Core/Inc/FreeRTOSConfig.h
 minitop\motortask.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 minitop\motortask.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
@@ -10,7 +10,7 @@ minitop\motortask.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/AR
 minitop\motortask.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
 minitop\motortask.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
 minitop\motortask.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
-minitop\motortask.o: F:\Software\KEIL5\Core\ARM\Arm_Compiler_5.06u7\Bin\..\include\math.h
+minitop\motortask.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
 minitop\motortask.o: ../Core/Inc/can.h
 minitop\motortask.o: ../Core/Inc/main.h
 minitop\motortask.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h

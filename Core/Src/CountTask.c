@@ -11,9 +11,9 @@ void CountTask(void const * argument)
     {
         count++;
         vTaskDelay(1);
-        if(count == 1000)
+        if(count == 40)
         {
-            sec +=0.1;
+            sec +=1;
             count = 0;
         }
     }

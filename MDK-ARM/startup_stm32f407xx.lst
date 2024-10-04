@@ -849,11 +849,11 @@ interwork --depend=minitop\startup_stm32f407xx.d -ominitop\startup_stm32f407xx.
 ARM Macro Assembler    Page 14 
 
 
-o -I../Core/Inc -I.\RTE\_MiniTop -IF:\Software\KEIL5\Packs\ARM\CMSIS\5.9.0\CMSI
-S\Core\Include -IF:\Software\KEIL5\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSI
-S\Device\ST\STM32F4xx\Include --predefine="__UVISION_VERSION SETA 539" --predef
-ine="_RTE_ SETA 1" --predefine="STM32F407xx SETA 1" --predefine="_RTE_ SETA 1" 
---list=startup_stm32f407xx.lst startup_stm32f407xx.s
+o -I../Core/Inc -I.\RTE\_MiniTop -ID:\keil5\ARM\CMSIS\5.9.0\CMSIS\Core\Include 
+-ID:\keil5\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include 
+--predefine="__UVISION_VERSION SETA 539" --predefine="_RTE_ SETA 1" --predefine
+="STM32F407xx SETA 1" --predefine="_RTE_ SETA 1" --list=startup_stm32f407xx.lst
+ startup_stm32f407xx.s
 
 
 

@@ -1,7 +1,7 @@
 minitop\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
 minitop\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-minitop\croutine.o: F:\Software\KEIL5\Core\ARM\Arm_Compiler_5.06u7\Bin\..\include\stddef.h
-minitop\croutine.o: F:\Software\KEIL5\Core\ARM\Arm_Compiler_5.06u7\Bin\..\include\stdint.h
+minitop\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+minitop\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 minitop\croutine.o: ../Core/Inc/FreeRTOSConfig.h
 minitop\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 minitop\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
